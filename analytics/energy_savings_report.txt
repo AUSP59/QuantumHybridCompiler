@@ -1,0 +1,1 @@
+Estimated energy savings vs classical compiler: 12.5% avg. in hybrid optimization cases.

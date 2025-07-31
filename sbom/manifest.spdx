@@ -1,0 +1,9 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: QuantumHybridCompiler
+DocumentNamespace: http://spdx.org/spdxdocs/quantumhybridcompiler-1.0
+Creator: Tool: GoBuild v1.22
+Created: 2025-07-31T00:00:00Z
+PackageName: quantumhybridcompiler
+PackageVersion: 1.0.0

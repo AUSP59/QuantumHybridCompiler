@@ -1,0 +1,7 @@
+// Example hybrid DSL
+let a = 1;
+let b = 0;
+qif (a == b) {
+    apply H q0;
+    apply CNOT q0 q1;
+}
